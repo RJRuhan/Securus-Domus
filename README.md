@@ -31,5 +31,9 @@ This project implements a comprehensive home security system that features gas a
 - **Software**: Arduino IDE
 
 ## Demo
+You can watch the video here:
+
+[![Watch the video](https://img.youtube.com/vi/O2aVEYXrsXY/hqdefault.jpg)](https://www.youtube.com/watch?v=O2aVEYXrsXY)
+
 
 
